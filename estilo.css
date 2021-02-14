@@ -10,17 +10,3 @@
     margin: auto;
     overflow: hidden;
 }
-table{
-    margin-top: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-collapse: collapse;
-}
-td,th{
-    border:2px solid black ;
-    padding-left: 0px;
-    padding-right: 0px;
-    padding-top: 0px;
-    padding-bottom: 0x;
-
-}
