@@ -1,11 +1,15 @@
 
 body{
-    background: cyan;
+    background: rgba(0, 238, 255, 0.842);
     text-align: center;
+    font-family:'open Sans ' ;
 
 }
 .titulo{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: indigo;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 60px;
 }
 .titulo_gen1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
