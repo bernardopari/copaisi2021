@@ -1,15 +1,5 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-.container{
-    
-    width: 100%;
-    max-width: 100px;
-    margin: auto;
-    overflow: hidden;
-}
+
+
 table{
     margin-top: 60px;
     margin-left: auto;
@@ -21,6 +11,6 @@ td,th{
     padding-left: 50px;
     padding-right: 20px;
     padding-top: 10px;
-    padding-bottom: 10x;
+    padding-bottom:10x;
 
 }
